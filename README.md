@@ -22,7 +22,7 @@ cd alert-htb-xss-tool
 ```
 
 ## Usage
-**Important: Edit `LHOST` to your IP. **
+**Important: Edit `LHOST` to your IP.**
 
 Run with target file:
 ```bash
